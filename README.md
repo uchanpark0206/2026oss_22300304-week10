@@ -1,6 +1,19 @@
+Installation: 설치·실행 방법 및 실행 화면
+
+    cd react-calculator
+    npm run dev
+
+README.md & Weekly Review
+Project Information: 프로젝트 소개, 선택 이유, 원본 GitHub URL 및 라이선스
+
+    선정한 프로젝트: 계산기를 웹에서 나타내는 프로젝트
+
+    선정 이유는 README.md, package.json 포함된 프로젝트를 찾다가 모든걸 만족하는 프로젝트가 이 프로젝트였기 때문에 선정하게 되음.
+
+
 Project Structure: 주요 파일 2~3개의 역할
 
-    index.html:기존에 사용하던 틀 열할을 함.<div id="root">에 App.jsx를 담을 그릇을 준비함
+    index.html:기존에 사용하던 틀 역할을 함.<div id="root">에 App.jsx를 담을 그릇을 준비함
     main.jsx:App.jsx을 <div id="root">에 담을 수 있도록 도와줌
     App.jsx:실질적으로 우리가 보는 내용을 담고 있음
 
@@ -47,4 +60,23 @@ Code Analysis: 코드 1개(약 5~15줄)를 선택하여 동작 원리 설명
 
 ![후](b.png)
 
-원본 urlhttps://github.com/alexiscirmi/react-calculator
+
+Deployment: 실제 접근 가능한 Vercel URL
+
+   원본 urlhttps://github.com/alexiscirmi/react-calculator
+
+새롭게 배운 내용 3가지
+
+    1.index.html:기존에 사용하던 틀 역할을 함.<div id="root">에 App.
+    2.main.jsx:App.jsx을 <div id="root">에 담을 수 있도록 도와줌
+    3. App.jsx:실질적으로 우리가 보는 내용을 담고 있음
+
+
+어려웠던 점과 해결 방법
+    가장 어려웠던 부분은 점은 일단 적당한 프로젝트를 찾는 부분이 가장 어려웠으며 ai의 도움을 받아 과제의 키워드와 ai의 조언을 섞어서 적당한 프로젝트를 찾았음
+
+AI 활용 내용 및 느낀 점
+    1.프로젝트를 찾기 위한 키워드를 조언받음
+    2. import { Container, Col, Row } from 'react-bootstrap'이 뭔지 
+    몰라서 혹시 부트스트랩을 이용해서 사용한것인지 물어봄
+    3.README에 사진을 넣어본적이없어서 어떻게 넣는거지 물어봄
