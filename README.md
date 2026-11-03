@@ -41,6 +41,10 @@ Code Analysis: 코드 1개(약 5~15줄)를 선택하여 동작 원리 설명
 
 수정 파일명과 변경 전 결과
 
+![전](a.png)
+
 수정 파일명과 변경 후 결과
+
+![후](b.png)
 
 원본 urlhttps://github.com/alexiscirmi/react-calculator
