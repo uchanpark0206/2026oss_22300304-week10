@@ -80,3 +80,20 @@ AI 활용 내용 및 느낀 점
     2. import { Container, Col, Row } from 'react-bootstrap'이 뭔지 
     몰라서 혹시 부트스트랩을 이용해서 사용한것인지 물어봄
     3.README에 사진을 넣어본적이없어서 어떻게 넣는거지 물어봄
+
+    느낀점
+    ai
+
+<!--
+fork:복제
+pr:pull reqwst
+
+jsx
+
+class >>> className
+
+funcion a(){}>>funcion a = ()=>{}
+
+주석 {"<!---->"}
+
+-->
