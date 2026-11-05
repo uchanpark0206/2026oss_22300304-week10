@@ -2,6 +2,7 @@ Installation: 설치·실행 방법 및 실행 화면
 
     cd react-calculator
     npm run dev
+![사진](a.png)
 
 README.md & Weekly Review
 Project Information: 프로젝트 소개, 선택 이유, 원본 GitHub URL 및 라이선스
