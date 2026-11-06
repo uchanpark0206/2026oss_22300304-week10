@@ -1,15 +1,27 @@
 Installation: 설치·실행 방법 및 실행 화면
 
+    npm install
     cd react-calculator
     npm run dev
+
 ![사진](a.png)
 
 README.md & Weekly Review
-Project Information: 프로젝트 소개, 선택 이유, 원본 GitHub URL 및 라이선스
+Project Information: 프로젝트 소개, 선택 이유, 원본 GitHub URL 및 라이선스 주요 기능 2~3가지
 
     선정한 프로젝트: 계산기를 웹에서 나타내는 프로젝트
 
     선정 이유는 README.md, package.json 포함된 프로젝트를 찾다가 모든걸 만족하는 프로젝트가 이 프로젝트였기 때문에 선정하게 되음.
+
+    주요 기능 2~3가지:
+    
+    1)버튼 생성을 쉽게 하기우한 함수 구현(ButtonCustom.jsx)
+
+    2)계산기 화면에 해당 숫자들을 보여줌(diplay.jsx)
+
+    3)버튼을 누르면 해당 내용이 지정된 함수를 작동시킴(ButtonContainer.jsx)
+
+
 
 
 Project Structure: 주요 파일 2~3개의 역할
